@@ -12,6 +12,8 @@
 
 ![Alt text](Screenshot%20from%202023-01-06%2001-41-22.png)
 
+<video src='/home/ls10/Documents/Projects/CSE120TaAllocatorRepo/2022-08-Fall-CSE-Team307-demo.mp4.mp4' ></video>
+
 
 [label](2022-08-Fall-CSE-Team307-demo.mp4.mp4)
 
