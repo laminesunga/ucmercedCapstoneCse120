@@ -15,8 +15,6 @@
 <video src='https://github.com/laminesunga/ucmercedCapstoneCse120/blob/master/2022-08-Fall-CSE-Team307-demo.mp4.mp4' ></video>
 
 
-[label](2022-08-Fall-CSE-Team307-demo.mp4.mp4)
-
 ![Alt text](2022-08-Fall-CSE-Team307-slides%20(1).jpg/p1gmcm9qe32rb1m621l1ad9e13ag4-0.jpg)
 
 ![Alt text](2022-08-Fall-CSE-Team307-slides%20(1).jpg/p1gmcm9qe32rb1m621l1ad9e13ag4-1.jpg)
