@@ -8,14 +8,17 @@
 
 **Results**: By implementing a system that the TA selection committee can use which is also user friendly and reliable, the Computer Science & Engineering Department at UC Merced can make fair, equitable, and transparent assignments for Teaching Assistant positions.
 
+
 ![Alt text](Screenshot%20from%202023-01-06%2001-41-09.png)
 
 ![Alt text](Screenshot%20from%202023-01-06%2001-41-22.png)
 
-<video src='/home/ls10/Documents/Projects/CSE120TaAllocatorRepo/2022-08-Fall-CSE-Team307-demo.mp4.mp4' ></video>
+*** Demo Video ***
 
 
-[label](2022-08-Fall-CSE-Team307-demo.mp4.mp4)
+[![Watch the video](Screenshot%20from%202023-01-09%2019-37-00.png)](https://youtu.be/gt4orzKF4Xc)
+
+
 
 ![Alt text](2022-08-Fall-CSE-Team307-slides%20(1).jpg/p1gmcm9qe32rb1m621l1ad9e13ag4-0.jpg)
 
